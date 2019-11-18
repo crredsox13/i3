@@ -1,1 +1,1 @@
-i3config.d
+Prod i3config
